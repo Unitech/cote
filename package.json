@@ -1,5 +1,5 @@
 {
-  "name": "cote",
+  "name": "pcote",
   "version": "0.6.1",
   "keywords": [
     "mesh",
@@ -33,8 +33,7 @@
     "lodash": "2.4.1",
     "node-discover": "0.4.0",
     "node-uuid": "1.4.1",
-    "portfinder": "0.4.0",
-    "socket.io": "1.3.5"
+    "portfinder": "0.4.0"
   },
   "devDependencies": {
     "humanize-number": "0.0.2",
